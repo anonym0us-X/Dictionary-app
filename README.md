@@ -1,3 +1,16 @@
+## ABOUT THE PROJECT
+This project is a basic project for gettig the word meaning of any word. 
+The project has a simple basic front end and for css i have used TailwindCSS whihc has added a better looking ui to the site.
+
+
+<!--
+
+Thank you the API calling service : 
+Free Dictionary API (https://dictionaryapi.dev) to fetch word meanings for free. It provides definitions, phonetics, synonyms, and more.
+
+-->
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
